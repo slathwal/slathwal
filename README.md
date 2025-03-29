@@ -1,5 +1,9 @@
-## Hi there 👋
+### Hi there 👋
+I am Shefali Lathwal. Welcome to my github.
 
+Here you will find projects related to statistics, general data analysis, creating interactive data applications, analyzing biological data, and anything else that appeals to me.
+
+You will also find a repository containing code for my [personal webiste](slathwal.github.io).
 <!--
 **slathwal/slathwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
